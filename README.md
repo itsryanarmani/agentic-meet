@@ -4,7 +4,7 @@
 [![Downloads/month](https://img.shields.io/npm/dm/agentic-meet)](https://www.npmjs.com/package/agentic-meet)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-meet) · [Source and support](https://github.com/pooriaarab/agentic-meet)
+[Package](https://www.npmjs.com/package/agentic-meet) · [Source and support](https://github.com/itsryanarmani/agentic-meet)
 
 agentic-meet is an open-source Node.js wrapper that creates Daily and Whereby video meeting rooms through a library, command-line interface, or Model Context Protocol (MCP) server.
 
@@ -73,7 +73,7 @@ Its inputs are `vendor`, `name`, `expiresAt`, and `live`. Live calls require the
 
 The package does not manage calls, recordings, room deletion, retries, or a hosted meeting service.
 Room names accept letters, numbers, underscores, and hyphens. Expiration strings receive no date validation.
-Version 0.1.x interfaces can change. Report problems through [GitHub issues](https://github.com/pooriaarab/agentic-meet/issues).
+Version 0.1.x interfaces can change. Report problems through [GitHub issues](https://github.com/itsryanarmani/agentic-meet/issues).
 
 ## License
 
